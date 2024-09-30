@@ -11,7 +11,7 @@
 
 ---
 
-## <h2>📋 Workshop Overview</h2>
+## <h2>📋  Overview</h2>
 
 The workshop covers:
 - **Supervised Fine-Tuning**
