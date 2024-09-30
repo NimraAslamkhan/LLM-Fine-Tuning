@@ -111,8 +111,8 @@ Above is a visualization generated during the fine-tuning process. You can explo
 For any questions or collaborations, feel free to reach out via [email](nimraaslam3132@gmail.com).
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/LLM-Fine-Tuning-Workshop?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/LLM-Fine-Tuning-Workshop?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/stars/NimraAslamKhan/LLM-Fine-Tuning-Workshop?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/NimraAslamKhan/LLM-Fine-Tuning-Workshop?style=social" alt="GitHub Forks">
 </p>
 
 ---
